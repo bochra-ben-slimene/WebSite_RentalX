@@ -6,4 +6,4 @@ This website is built using HTML, CSS, and JavaScript.
 
 ## Visit the Site
 
-You can visit the site here: [RentalX](https://web-site-rentalx.vercel.app/)
+You can visit the site here: [RentalX](https://web-site-rental-x.vercel.app/)
